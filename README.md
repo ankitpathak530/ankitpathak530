@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ankit Pathak
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning microservices.
-- 💞️ I’m looking to collaborate on good team.
+- 💞️ I’m looking to collaborate with good team.
 - 📫 Reach to me:- ankitpathak530@gmail.com
 
 <!---
