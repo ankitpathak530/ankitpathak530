@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/ankitpathak530/" rel="nofollow"><img align="left" alt="codingwarriors | LinkedIn" width="42px" src="https://camo.githubusercontent.com/7fb78065b26012846c7bf91f326864e2457da0c9aa756aef9e3fa862b86ecbf2/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3334342f6c696e6b6564696e2e706e67" data-canonical-src="https://img.icons8.com/color/344/linkedin.png" style="max-width: 100%; margin-top:0px;"></a>
 
 
-<a href="  https://leetcode.com/ankitpathak530/" target="blank"><img align="" src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png" alt="  https://leetcode.com/ankitpathak530/" height="30" width="30" style="margin-top:0px; display:inline;" /></a>
+<a href="https://leetcode.com/ankitpathak530/" target="blank"><img align="" src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png" alt="https://leetcode.com/ankitpathak530/" height="30" width="30" style="margin-top:0px; display:inline;" /></a>
   
 
 <a href="https://www.hackerrank.com/Ankit_pathak?hr_r=1" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/Ankit_pathak" height="30" width="40" style="margin-top:0px;display:inline;" /></a>
